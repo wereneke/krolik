@@ -1,0 +1,22 @@
+{
+  "name": "krolik",
+  "version": "1.0.0",
+  "description": "gonna jump",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wereneke/krolik.git"
+  },
+  "keywords": [
+    "krolik"
+  ],
+  "author": "wereneke",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/wereneke/krolik/issues"
+  },
+  "homepage": "https://github.com/wereneke/krolik#readme"
+}
