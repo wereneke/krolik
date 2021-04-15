@@ -10,7 +10,4 @@ app.route('/')
 app.route('/:id')
     .get(getOne);
 
-const port = 3000;
-app.listen(port, () => {
-    console.log(`Krolik running on port ${port}`);
-})
+module.exports = app;
