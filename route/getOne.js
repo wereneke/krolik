@@ -1,3 +1,4 @@
 module.exports = (req, res) => {
-    res.send('get one called')
+    const { id } = req.params
+    res.send(`get ${id} one called`);
 };
